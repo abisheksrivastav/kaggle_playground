@@ -1,4 +1,2 @@
-## Kaggle competition - Playground 
+## Kaggle competition - Playground Series January 2022
 
-[]: # Language: markdown
-[]: # Path: README.md
